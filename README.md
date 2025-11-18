@@ -47,6 +47,7 @@ O sistema foi desenvolvido como parte de um desafio acadêmico para aplicar conc
 Se ainda não tiver baixado o projeto, execute:
 
 git clone https://github.com/Luizzzin/python-2025-2.git
+
 Depois entre na pasta do projeto
 
 ## Verifique se você tem o Python instalado
