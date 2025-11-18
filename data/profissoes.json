@@ -1,0 +1,17 @@
+[
+    { "nome": "Assistente Social", "pesos": [0,0,0,1] },
+    { "nome": "Designer Técnico", "pesos": [0,0,1,0] },
+    { "nome": "Publicitario Criativo", "pesos": [0,0,1,1] },
+    { "nome": "Engenheiro Civil", "pesos": [0,1,0,0] },
+    { "nome": "Psicologo", "pesos": [0,1,0,1] },
+    { "nome": "Arquiteto", "pesos": [0,1,1,0] },
+    { "nome": "Produtor Cultural", "pesos": [0,1,1,1] },
+    { "nome": "Tecnico de Redes", "pesos": [1,0,0,0] },
+    { "nome": "Suporte de TI", "pesos": [1,0,0,1] },
+    { "nome": "Desenvolvedor Front-End", "pesos": [1,0,1,0] },
+    { "nome": "UX/UI Designer", "pesos": [1,0,1,1] },
+    { "nome": "Engenheiro de Software", "pesos": [1,1,0,0] },
+    { "nome": "Analista de Dados", "pesos": [1,1,0,1] },
+    { "nome": "Desenvolvedor de Jogos", "pesos": [1,1,1,0] },
+    { "nome": "Empresario / CEO", "pesos": [1,1,1,1] }
+]
