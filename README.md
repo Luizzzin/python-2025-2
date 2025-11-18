@@ -40,3 +40,7 @@ O sistema foi desenvolvido como parte de um desafio acadêmico para aplicar conc
 - **JSON** para armazenamento permanente dos perfis
 - Interface **CLI** (Command Line Interface)
 - Organização modular do código
+
+## integrantes:
+- Luiz Henrique Barbosa Dias RM: 562399
+- Nathan Lopes Silva RM: 563507
